@@ -1,2 +1,2 @@
 # Tidus
-kotlin project on SpringFrameWork
+website template by wordpress
