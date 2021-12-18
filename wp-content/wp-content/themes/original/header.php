@@ -1,6 +1,8 @@
 <html>
 <head>
-    <link rel ="stylesheet" href="/css/style.css">
+    <!--<link rel ="stylesheet" href="/css/style.css"> -->
+    <link href="<?php echo get_stylesheet_directory_uri(); ?>"  rel="stylesheet"/>
+    
     <title>createPro</title>
 </head>
 <body> 
